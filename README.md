@@ -7,10 +7,10 @@ Choose the location on the search bar, the map moves to that place, you get serv
 
 ## Api's used
 
-NEWS: https://newsapi.org/
-Google Maps
+* NEWS: https://newsapi.org/
+* Google Maps
 
 ## Future works:
-Places API autocomplete
-Draggable markers
-Sliver / BottomModalSheet for the news
+* Places API autocomplete
+* Draggable markers
+* Sliver / BottomModalSheet for the news
