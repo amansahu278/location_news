@@ -14,3 +14,5 @@ Choose the location on the search bar, the map moves to that place, you get serv
 * Places API autocomplete
 * Draggable markers
 * Sliver / BottomModalSheet for the news
+
+[ Link to demo ](https://youtu.be/SaY0FSuIEcQ)
